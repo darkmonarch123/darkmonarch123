@@ -1,97 +1,65 @@
-<h1 align="center">Hi, I'm Temiloluwa 👋</h1>
-<h3 align="center">Software Engineer · Lagos, Nigeria 🇳🇬</h3>
+<div align="center">
+  <img src="./profile-banner.svg" alt="Temiloluwa — Software Engineer, Lagos, Nigeria" width="100%">
+</div>
 
-<p align="center">
-I write clean full-stack code and build practical AI tools — from fintech and healthcare platforms to blockchain .
-</p>
-
-<p align="center">
-  <a href="mailto:emmanueltemiloluwa441@yahoo.com"><img src="https://img.shields.io/badge/Email-emmanueltemiloluwa441%40yahoo.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://ng.linkedin.com/in/temiloluwa-emmanuel-oluwanifemi-9628532a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/iam_temiloluwa7"><img src="https://img.shields.io/badge/X-@iam__temiloluwa7-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-</p>
-
----
-
-### ⚡ About me
-
-- 🎓 Studying **Petroleum Engineering** at the University of Lagos (UNILAG)
-- 💻 Started coding at 12 — basic web dev and JS, now building full-stack products end to end
-- 🧠 Currently going deeper on **AI/ML** and **blockchain**
-- 🌍 What drives me: turning complexity into software a non-technical person can actually use
-- ⚙️ Comfortable owning a product front to back — UI, backend, data, and everything in between
-- 📄 [Portfolio →](https://github.com/darkmonarch123/port) · Full write-ups of everything below
-
-### 🔨 What I'm working on
-
-| Project | What it does |
-|---|---|
-| [**ProDesign Africa**](https://github.com/darkmonarch123/ProdesignAfrica) | 3D architecture/CAD web builder for African professionals — built around Nigerian plot standards and ARCON/LASDRI compliance |
-| [**Pinnacle Inc**](https://github.com/darkmonarch123/PinnacleCorp) | Paper-trading platform giving African investors a $10K virtual balance to practice on ETFs, stocks and Nasdaq names |
-| **NairaX Signal Pro** | Memecoin signal bot scanning 340+ coins/hour across Solana, BSC & Ethereum, scoring each 0–100 and alerting via Telegram |
-| **NewHope Hospital System** | Hospital management system for patient appointments, records and ward sorting |
-| [**UNICCREATIONS**](https://github.com/darkmonarch123/uniccreations-style-hub) | E-commerce storefront for a Lagos-made fashion brand — front end and back end |
-
-### 🧰 Tools I reach for
-
-**Frontend**
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Backend**
+<div align="center">
+  <img src="./tech-pills.svg" alt="Tech stack: React, Next.js, TypeScript, Node.js, Python, Solidity, Docker, Git">
+</div>
+
 <br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-**Mobile & Blockchain**
-<br>
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+Software engineer in Lagos, Nigeria. I write full-stack code and ship it myself — front end, back end, and whatever AI or blockchain piece the product actually needs.
 
-**Data & AI**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+Started at 12 with basic HTML and JS pages nobody asked for. Never really stopped. What kept me going wasn't the code itself, it was the moment something I built turned into a thing someone who isn't a developer could just use.
 
-**Data & Infra**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+Most of what's here isn't a class assignment or a tutorial follow-along — it's a product I decided needed to exist, then built end to end because there was no one else to hand the other half to.
 
-**Tooling**
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+## Stack I actually use
 
-### 📊 GitHub stats
+- **React / Next.js** — the front end for everything, because I'd rather spend my time on the product than re-litigate tooling choices.
+- **TypeScript** — on anything that's going to outlive the first week.
+- **Node.js / Express** — the API layer, paired with Postgres or Mongo depending on how relational the data actually is.
+- **Python** — pandas, NumPy, PyTorch, OpenCV, for the AI/ML side I'm going deeper on right now.
+- **Solidity / Rust** — for the projects where a chain has to sit underneath the product, not instead of it.
+- **Java / Spring Boot / C** — the part of the stack that doesn't get a spotlight but shows up when a project needs it.
+- **Docker / Kubernetes / Kafka** — for when "it works on my machine" isn't good enough anymore.
+- **Git and GitHub** — no ceremony, just commits that say what actually changed.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkmonarch123&show_icons=true&theme=default&hide_border=true" alt="Temiloluwa's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkmonarch123&hide_border=true" alt="GitHub streak" height="165">
-</p>
+## Selected projects
 
-### 🟢 Availability
+[**ProDesign Africa**](https://github.com/darkmonarch123/ProdesignAfrica) — A 3D architecture builder so students, firms and people with zero CAD experience can design a building through a browser. Nigerian plot standards and ARCON/LASDRI compliance baked into the tool, not bolted on after.
 
-**Open to new projects and remote work.** If you're building something and need someone who can own it front to back — reach out.
+[**Pinnacle Inc**](https://github.com/darkmonarch123/PinnacleCorp) — A paper-trading platform for African investors: real market data, a real order desk, a $10,000 virtual balance, and none of the risk while you learn.
 
-<p align="left">
-  <a href="mailto:emmanueltemiloluwa441@yahoo.com">📧 emmanueltemiloluwa441@yahoo.com</a> 
-</p>
+**NairaX Signal Pro** — A memecoin signal bot that scans 340+ new coins an hour across Solana, BSC and Ethereum, scores each one 0–100 across 7 signals, and tells Nigerian users which ones are worth a second look — Telegram bot and web dashboard, free and premium tiers.
+
+**NewHope Hospital System** — Appointment tracking and ward sorting for a hospital that was running on paper trails before this existed.
+
+[**UNICCREATIONS**](https://github.com/darkmonarch123/uniccreations-style-hub) — E-commerce storefront for a Lagos-made fashion brand. I matched their design reference down to the spacing, then built the shop logic behind it. Front end and back end, no separate hire for either.
+
+## Currently
+
+Going deeper on AI/ML and blockchain — not as separate interests, as the same interest: turning something complicated into a product a normal person can pick up and use. Also studying Petroleum Engineering at the University of Lagos, because systems are systems whether they're made of code or pipe.
+
+## 📊 Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkmonarch123&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmonarch123&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Top languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkmonarch123&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&hide_border=true" alt="Contribution activity" width="100%">
+</div>
+
+## Contact
+
+Email is the fastest way to reach me: **emmanueltemiloluwa441@yahoo.com**. Also on [LinkedIn](https://ng.linkedin.com/in/temiloluwa-emmanuel-oluwanifemi-9628532a7) and [X](https://x.com/iam_temiloluwa7) if that's easier for you.
+
+Open to new projects right now. If you need someone who'll own the whole thing instead of just their half of it, that's usually me.
+
+## A note on licence
+
+Code here is MIT unless a repo says otherwise — use it, fork it, ship it in your own product, no credit required. If you want to talk before that, my inbox is open.
